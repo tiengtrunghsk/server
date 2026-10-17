@@ -1,0 +1,11 @@
+Flask
+Flask-Cors
+fuzzywuzzy
+python-levenshtein
+pypinyin
+openpyxl
+pycorrector
+transformers
+torch
+firebase-admin
+gunicorn
